@@ -1,0 +1,8 @@
+C:\Users\Bilgin\Desktop\ReCapProject-master\ReCapProject-master\Libraries\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\Bilgin\Desktop\ReCapProject-master\ReCapProject-master\Libraries\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Bilgin\Desktop\ReCapProject-master\ReCapProject-master\Libraries\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Bilgin\Desktop\ReCapProject-master\ReCapProject-master\Libraries\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\Bilgin\Desktop\ReCapProject-master\ReCapProject-master\Libraries\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Bilgin\Desktop\ReCapProject-master\ReCapProject-master\Libraries\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\Bilgin\Desktop\ReCapProject-master\ReCapProject-master\Libraries\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\Bilgin\Desktop\ReCapProject-master\ReCapProject-master\Libraries\Core\obj\Debug\netstandard2.1\Core.pdb

@@ -1,0 +1,22 @@
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Marka Adı</th>
+      <th>Müşteri</th>
+      <th>Fiyat</th>
+      <th>Kirala Başlangıç Tarihi</th>
+      <th>Kira Bitiş Tarihi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let rentalDto of rentalDtos">
+      <td>{{ rentalDto.id }}</td>
+      <td>{{ rentalDto.brandName }}</td>
+      <td>{{ rentalDto.customer }}</td>
+      <td>{{ rentalDto.price }} ₺</td>
+      <td>{{ rentalDto.rentDate | date: "dd/MM/yyyy hh:mm" }}</td>
+      <td>{{ rentalDto.returnDate | date: "dd/MM/yyyy hh:mm" }}</td>
+    </tr>
+  </tbody>
+</table>
